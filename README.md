@@ -28,7 +28,7 @@ The code supports training and evaluating on [CIFAR10](https://www.cs.toronto.ed
 [PyTorch 1.6](https://pytorch.org/)
 
 ## Citation 
-If you find our work useful please cite:
+If you find our work useful please cite: ~\cite{
 @inproceedings{jebreel2020efficient,
   title={Efficient Detection of Byzantine Attacks in Federated Learning Using Last Layer Biases},
   author={Jebreel, Najeeb and Blanco-Justicia, Alberto and S{\'a}nchez, David and Domingo-Ferrer, Josep},
@@ -36,7 +36,7 @@ If you find our work useful please cite:
   pages={154--165},
   year={2020},
   organization={Springer}
-}
+}}
 
 ## Funding
 This research was funded by the European Commission (projects H2020-871042 “SoBigData++” and
