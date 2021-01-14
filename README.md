@@ -18,7 +18,7 @@ The repository contains one main jupyter notebook: `Experiments.IPYNB` in each d
 
 Additionally, this repo contains some images from different distributions that used to embed the watermarks.
 
-The code supports training and evaluating on [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) and [MNIST] datasets.
+The code supports training and evaluating on [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) and [MNIST](http://yann.lecun.com/exdb/mnist/) datasets.
 
 
 ## Dependencies
